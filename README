@@ -19,6 +19,17 @@ LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+----------------------------------------------------------------------
+
+What it does? 
+
+This package extends the amsmath proof enviroment with enviroments for
+claims and corresponding proofs.
+
+----------------------------------------------------------------------
+
+How to use it?
+
 Use it like this ...
 
 \documentclass{amsart}
@@ -50,4 +61,6 @@ $P = NP$
 \end{structproof}
 
 \end{document}
+
+----------------------------------------------------------------------
 
